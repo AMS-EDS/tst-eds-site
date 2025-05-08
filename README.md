@@ -1,6 +1,6 @@
 # Your Project's Title...
 
-Your project's description...
+Your project's description goes here
 
 ## Environments
 
