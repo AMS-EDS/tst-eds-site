@@ -13,7 +13,7 @@
 }
 
 .cards .cards-card-body {
-  margin: 15px;
+  margin: 14px;
 }
 
 .cards .cards-card-image {
