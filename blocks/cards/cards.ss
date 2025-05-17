@@ -13,7 +13,7 @@
 }
 
 .cards .cards-card-body {
-  margin: 18px;
+  margin: 17px;
 }
 
 .cards .cards-card-image {
@@ -29,3 +29,4 @@
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
+
